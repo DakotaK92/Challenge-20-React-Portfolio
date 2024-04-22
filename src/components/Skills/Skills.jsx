@@ -1,8 +1,8 @@
 import React from "react";
 import "./Skills.css";
-import UIDesign from "";
-import Webdesign from "";
-import AppDesign from "";
+import Frontend from "./src/assets/icons/fronendIcon";
+import Backend from "./src/assets/icons/backendIcon";
+import GraphicDesign from "./src/assets/icons/creativeCloudIcon";
 
 const Skills = () => {
     return (
@@ -11,23 +11,23 @@ const Skills = () => {
             <span className="skillDescription">I am a skilled Web Designer and Grapic Designer</span>
             <div className="skillBars">
                 <div className="skillBar">
-                    <img src={UIDesign} alt="UIDesign" className="skillBarImg" />
+                    <img src={Frontend} alt="Frontend" className="skillBarImg" />
                     <div className="skillBarText">
-                        <h2>UI/UX Design</h2>
+                        <h2>Frontend Design</h2>
                         <p>This is a demo text</p>
                     </div>
                 </div>
                 <div className="skillBar">
-                    <img src={Webdesign} alt="Webdesign" className="skillBarImg" />
+                    <img src={Backend} alt="Backend" className="skillBarImg" />
                     <div className="skillBarText">
-                        <h2>Web Design</h2>
+                        <h2>Backend Design</h2>
                         <p>This is a demo text</p>
                     </div>
                 </div>
                 <div className="skillBar">
-                    <img src={AppDesign} alt="AppDesign" className="skillBarImg" />
+                    <img src={GraphicDesign} alt="GraphicDesign" className="skillBarImg" />
                     <div className="skillBarText">
-                        <h2>App Design</h2>
+                        <h2>Graphic Design</h2>
                         <p>This is a demo text</p>
                     </div>
                 </div>

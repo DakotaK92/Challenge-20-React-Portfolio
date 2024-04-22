@@ -1,11 +1,11 @@
 import React from "react";
 import "./Portfolio.css";
-import Portfolio1 from "";
-import Portfolio2 from "";
-import Portfolio3 from "";
-import Portfolio4 from "";
-import Portfolio5 from "";
-import Portfolio6 from "";
+import Portfolio1 from "./src/assets/portfolio/Portfolio1";
+import Portfolio2 from "./src/assets/portfolio/Portfolio2";
+import Portfolio3 from "./src/assets/portfolio/Portfolio3";
+import Portfolio4 from "./src/assets/portfolio/Portfolio4";
+import Portfolio5 from "./src/assets/portfolio/Portfolio5";
+import Portfolio6 from "./src/assets/portfolio/Portfolio6";
 
 const Portfolio = () => {
     return (

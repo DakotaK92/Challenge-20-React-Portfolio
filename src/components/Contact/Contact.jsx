@@ -1,6 +1,6 @@
 import React from "react";
-import Github from "";
-import LinkedIn from "";
+import Github from "./src/assets/icons/githubWhiteIcon";
+import LinkedIn from "./src/assets/icons/linkedInIcon";
 
 const Contact = () => {
     return(
