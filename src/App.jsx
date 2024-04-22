@@ -1,20 +1,20 @@
 import React from "react";
-import './App.css';
-import Home from './pages/Home';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
-import { useState } from "react";
+import Navigation from '.components/Navigation/Navigation';
+import Intro from "./components/Intro/Intro";
+import Skills from "./components/Skills/Skills";
+import Portfolio from "./components/Portfolio/Portfolio";
+import Contact from "./components/Contact/Contact";
+import Footer from "./components/Footer/Footer";
 
 const App = () => {
-  const [currentPage, setCurrentPage] = useState("About");
   return (
-    <div>
-      <Header currentPage={currentPage} setCurrentPage={setCurrentPage}/>
-        <Home
-          currentPage={currentPage}
-          setCurrentPage={setCurrentPage}
-        />
-      <Footer/>
+    <div className="App">
+      <Navigation />
+      <Intro />
+      <Skills />
+      <Portfolio />
+      <Contact />
+      <Footer />
     </div>
   );
 };
