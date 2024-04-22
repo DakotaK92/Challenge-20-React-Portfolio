@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "./Navigation.css";
-import contactImg from "";
-import logo from '../assets/whiteLogo.png';
+import contactImg from "./src/assets/icons/contactIcon";
+import logo from '../assets/icons/whiteLogo.png';
 import {Link} from 'react-scroll';
-import menu from '';
+import menu from './src/assets/icons/hamburgerIcon';
 
 const Navigation = () => {
     const [showMenu, setShowMenu] = useState(false);
