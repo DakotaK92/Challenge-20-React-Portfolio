@@ -4,6 +4,7 @@
     max-width: 75rem;
     margin: 0 auto;
     overflow: hidden;
+    background-color: #2d388c;
 }
 
 .bg {
@@ -15,7 +16,7 @@
     height: 100vh;
 }
 
-.introContent {
+.introContainer {
     height: 100vh;
     width: 100vw;
     padding: 2rem;
@@ -46,7 +47,7 @@
     .bg {
         right: -10vw;
     }
-    .introContent {
+    .introContainer {
         font-size: 10vw;
     }
     .hello {

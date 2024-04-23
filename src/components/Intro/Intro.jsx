@@ -1,6 +1,6 @@
 import React from "react";
 import "./Intro.css";
-import bg from '';
+import bg from '../../assets/icons/introPic.png';
 
 const Intro = () => {
     return(

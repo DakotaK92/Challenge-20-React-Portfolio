@@ -11,7 +11,7 @@
     padding: 0 1rem;
 }
 
-.workdsTitle {
+.worksTitle {
     margin: 1rem 0;
     font-size: 3rem;
 }
@@ -22,7 +22,7 @@
     max-width: 45rem;
 }
 
-.worksImgs {
+.workImgs {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,10 +37,10 @@
     margin: 0.5rem;
 }
 
-.workBtn {
+.worksBtn {
     padding: 0.5rem 2.5rem;
     border: none;
-    background: white;
+    background-color: white;
     border-radius: 2rem;
     font-size: 1rem;
     margin: 3rem 0;

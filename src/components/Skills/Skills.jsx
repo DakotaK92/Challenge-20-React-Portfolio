@@ -1,8 +1,8 @@
 import React from "react";
 import "./Skills.css";
-import Frontend from "./src/assets/icons/fronendIcon";
-import Backend from "./src/assets/icons/backendIcon";
-import GraphicDesign from "./src/assets/icons/creativeCloudIcon";
+import Frontend from "../../assets/icons/frontendIcon.png";
+import Backend from "../../assets/icons/backendIcon.png";
+import GraphicDesign from "../../assets/icons/creativeCloudIcon.png";
 
 const Skills = () => {
     return (

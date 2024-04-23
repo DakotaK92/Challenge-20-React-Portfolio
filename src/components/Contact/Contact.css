@@ -10,13 +10,13 @@
     justify-content: center;
 }
 
-.contactPageDescription {
+.contactDescription {
     padding: 1rem;
     font-size: medium;
     font-weight: 300;
 }
 
-.containForm {
+.contactForm {
     margin: 1rem;
     display: flex;
     flex-direction: column;
