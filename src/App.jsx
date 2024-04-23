@@ -1,5 +1,6 @@
 import React from "react";
-import Navigation from '.components/Navigation/Navigation';
+import "./App.css"
+import Navigation from './components/Navigation/Navigation';
 import Intro from "./components/Intro/Intro";
 import Skills from "./components/Skills/Skills";
 import Portfolio from "./components/Portfolio/Portfolio";
