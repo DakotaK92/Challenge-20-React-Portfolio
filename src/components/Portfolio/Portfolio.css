@@ -23,7 +23,9 @@
 }
 
 .workImgs {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
@@ -35,6 +37,11 @@
     object-fit: cover;
     height: 20rem;
     margin: 0.5rem;
+    background: red;
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: green;
 }
 
 .worksBtn {
