@@ -1,6 +1,6 @@
 # Challenge-20-React-Portfolio
 
-Use `vite` and `react.js` I created a portfolio webiste for my potential employers.
+Useing `vite` and `react.js` I created a portfolio webiste for my potential employers.
 
 To run my portfolio: 
 + run `npm i` / `npm install` in your local machine,
