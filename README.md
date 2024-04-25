@@ -8,7 +8,7 @@ To run my portfolio:
 
 ## Welcome screen
   
- ## Deployed at on GitPages:
+ ## Deployed on GitPages:
 https://dakotak92.github.io/Challenge-20-React-Portfolio/
 
  ## In Development / Future Changes
