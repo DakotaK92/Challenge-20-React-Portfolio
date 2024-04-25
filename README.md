@@ -5,8 +5,6 @@ Using `vite` and `react.js` I created a portfolio webiste for my potential emplo
 To run my portfolio: 
 + run `npm i` / `npm install` in your local machine,
 + and run  `npm start` and it will launch!
-
-## Welcome screen
   
  ## Deployed on GitPages:
 https://dakotak92.github.io/Challenge-20-React-Portfolio/
