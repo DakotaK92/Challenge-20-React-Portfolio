@@ -14,12 +14,13 @@
     z-index: -1;
     object-fit: cover;
     height: 100vh;
+    width: 600px;
 }
 
 .introContainer {
-    height: 100vh;
+    height: 70vh;
     width: 100vw;
-    padding: 2rem;
+    padding: 5rem;
     font-size: 3rem;
     font-weight: 700;
     display: flex;

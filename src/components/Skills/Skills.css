@@ -10,6 +10,7 @@
     margin: 0 auto;
 }
 
+/* "What I can do" */
 .skillTitle { 
     font-size: 3rem;
     font-weight: 600;
@@ -17,6 +18,7 @@
     margin-bottom: 1.5rem;
 }
 
+/* "I am a skilled..." */
 .skillDescription {
     font-weight: 400;
     font-size: 1rem;
@@ -34,26 +36,26 @@
 .skillBar {
     display: flex;
     margin: 1rem;
-    padding: 1.5rem 2rem;
+    padding: 2rem 5rem;
     border-radius: 0.5rem;
     background: #1f2761;
 }
 
 .skillBarImg {
     object-fit: cover;
-    height: 3rem;
-    width: 3rem;
+    
+    width: 10rem;
     margin-right: 2rem;
 }
 
 .skillBarText .h2 {
     font-size: 0.5rem;
-    font-weight: 200;
+    font-weight: 100;
 }
 
 .skillBarText .p {
     font-size: 0.5rem;
-    font-weight: 200;
+    font-weight: 100;
 }
 
 @media screen and (max-width: 720px){
@@ -65,10 +67,6 @@
 @media screen and (min-width: 480px){
     .skillBarText>p {
         font-size: 3vw;
-    }
-    .skillBarImg {
-        height: 2.25rem;
-        width: 2.25rem;
     }
     .skillBarText>h2 {
         font-size: 5vw;

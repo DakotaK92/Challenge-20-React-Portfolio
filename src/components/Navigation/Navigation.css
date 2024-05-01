@@ -41,7 +41,6 @@
 /* Contact Image */
 .desktopMenuImg {
     object-fit: cover;
-    height: 1rem;
     width: 2rem;
     margin: 1rem;
 }
@@ -62,6 +61,7 @@
     display: none;
     object-fit: cover;
     height: 1.8rem;
+    width: 50px;
 }
 
 .navMenu{

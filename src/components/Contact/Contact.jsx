@@ -1,7 +1,7 @@
 import React from "react";
 import "./Contact.css";
-import Github from "../../assets/icons/githubWhiteIcon.png";
-import LinkedIn from "../../assets/icons/linkedInIcon.png";
+import Github from "../../assets/icons/Github White.png";
+import LinkedIn from "../../assets/icons/LinkedIn.png";
 
 const Contact = () => {
     return(
