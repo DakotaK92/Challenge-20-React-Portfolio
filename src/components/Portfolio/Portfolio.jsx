@@ -11,7 +11,7 @@ const data = [
     {
       id: 1,
       image: Portfolio1,
-      title: "Weather Forecase",
+      title: "Weather Forecast",
       github: "https://github.com/DakotaK92/Challenge-6-Weather-Forecast",
       demo: "https://dakotak92.github.io/Challenge-6/",
     },
